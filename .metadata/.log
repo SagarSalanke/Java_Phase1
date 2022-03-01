@@ -645,3 +645,8 @@ java.io.IOException: Failed to delete index file file:/P:/JAVA/Phase1/.metadata/
 !MESSAGE Save operation warnings.
 !SUBENTRY 1 org.eclipse.core.resources 2 234 2022-03-01 14:50:03.546
 !MESSAGE The project description file (.project) for 'ExecutionHandling' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.core.resources 2 2 2022-03-01 16:15:11.394
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-03-01 16:15:11.394
+!MESSAGE The project description file (.project) for 'ExecutionHandling' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
