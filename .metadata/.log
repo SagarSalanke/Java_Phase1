@@ -635,3 +635,8 @@ java.io.IOException: Failed to delete index file file:/P:/JAVA/Phase1/.metadata/
 	at org.eclipse.jdt.internal.core.search.indexing.IndexManager.notifyIdle(IndexManager.java:818)
 	at org.eclipse.jdt.internal.core.search.processing.JobManager.run(JobManager.java:422)
 	at java.base/java.lang.Thread.run(Thread.java:834)
+
+!ENTRY org.eclipse.core.resources 2 2 2022-03-01 10:51:21.190
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2022-03-01 10:51:21.190
+!MESSAGE The project description file (.project) for 'ExecutionHandling' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
